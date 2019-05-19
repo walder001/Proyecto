@@ -1,0 +1,16 @@
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.MenuInicio.resources
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.UI.Registro.Usuario.resources
+C:\Users\Walder Reyes\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete

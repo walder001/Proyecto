@@ -99,6 +99,19 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Release\clientes.png" />
+    <Content Include="Release\compras.png" />
+    <Content Include="Release\empleados.png" />
+    <Content Include="Release\Icono cerrar FN.png" />
+    <Content Include="Release\Icono Maximizar.png" />
+    <Content Include="Release\Icono Minimizar.png" />
+    <Content Include="Release\Icono Restaurar.png" />
+    <Content Include="Release\producto.png" />
+    <Content Include="Release\relo3.png" />
+    <Content Include="Release\reportes.png" />
+    <Content Include="Release\VECTOR.png" />
+    <Content Include="Release\venta.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

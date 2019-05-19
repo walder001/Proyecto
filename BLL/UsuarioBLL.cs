@@ -34,7 +34,7 @@ namespace ProyectoFinal.BLL
             return paso;
         }
 
-        //Este es el metodo para modificar en la base de datos
+        //Este es el metodo para modificar en la base de datosC:\Users\Walder Reyes\source\repos\ProyectoFinal\App.config
         public static bool Modificar(Usuarios usuarios)
         {
             bool paso = false;
