@@ -114,7 +114,7 @@
             this.central.Dock = System.Windows.Forms.DockStyle.Fill;
             this.central.Location = new System.Drawing.Point(230, 0);
             this.central.Name = "central";
-            this.central.Size = new System.Drawing.Size(601, 465);
+            this.central.Size = new System.Drawing.Size(559, 465);
             this.central.TabIndex = 0;
             this.central.Paint += new System.Windows.Forms.PaintEventHandler(this.Panel2_Paint);
             // 
@@ -122,7 +122,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(831, 465);
+            this.ClientSize = new System.Drawing.Size(789, 465);
             this.Controls.Add(this.central);
             this.Controls.Add(this.panel1);
             this.Name = "MenuInicio";

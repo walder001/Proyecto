@@ -184,16 +184,10 @@ namespace ProyectoFinal.UI.Registro
             }
         }
 
-        private void BtnEliminar_Click(object sender, EventArgs e)
+        private void BtnModificar_Click(object sender, EventArgs e)
         {
-            ErrorProvider.Clear();
-            int id;
-            int.TryParse(UsarioId.Text, out id);
-            Limpiar();
-            if (UsuarioBLL.Eliminar(id))
-                MessageBox.Show("Eliminado");
-            else
-                ErrorProvider.SetError(UsarioId, "No se puede eliminar una persona que no existe");
+            Usuarios usuario = new Usuarios();
+            UsuarioBLL.Modificar(usuario);
         }
     }
 }

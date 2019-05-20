@@ -100,6 +100,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DAL\Query.sql" />
     <Content Include="Release\clientes.png" />
     <Content Include="Release\compras.png" />
     <Content Include="Release\empleados.png" />
