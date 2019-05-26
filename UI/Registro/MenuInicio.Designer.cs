@@ -49,7 +49,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(230, 465);
+            this.panel1.Size = new System.Drawing.Size(230, 490);
             this.panel1.TabIndex = 0;
             // 
             // btnMantenimiento
@@ -114,7 +114,7 @@
             this.central.Dock = System.Windows.Forms.DockStyle.Fill;
             this.central.Location = new System.Drawing.Point(230, 0);
             this.central.Name = "central";
-            this.central.Size = new System.Drawing.Size(559, 465);
+            this.central.Size = new System.Drawing.Size(559, 490);
             this.central.TabIndex = 0;
             this.central.Paint += new System.Windows.Forms.PaintEventHandler(this.Panel2_Paint);
             // 
@@ -122,7 +122,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(789, 465);
+            this.ClientSize = new System.Drawing.Size(789, 490);
             this.Controls.Add(this.central);
             this.Controls.Add(this.panel1);
             this.Name = "MenuInicio";
